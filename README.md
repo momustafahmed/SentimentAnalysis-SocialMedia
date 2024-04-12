@@ -1,4 +1,4 @@
-The "SentimentAnalysis-SocialMedia" repository is a robust project aimed at leveraging machine learning for sentiment analysis on social media platforms, focusing specifically on YouTube comments related to a high-profile criminal case in Mogadishu. The project analyzes user comments to understand public sentiments—positive, negative, and neutral—towards the kidnapping and murder of a young businessman named Kaabax, which garnered significant attention on social media.
+The "SentimentAnalysis-SocialMedia" repository is a project aimed at leveraging machine learning for sentiment analysis on social media platforms, focusing specifically on YouTube comments related to a high-profile criminal case in Mogadishu. The project analyzes user comments to understand public sentiments—positive, negative, and neutral—towards the kidnapping and murder of a young businessman named Kaabax, which garnered significant attention on social media.
 
 1. **Data Collection**: Utilizing YouTube's API, the project team collected data from comments on videos discussing the case, storing the data in CSV files for further processing.
 
